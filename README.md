@@ -1,10 +1,5 @@
 
-    
-<h1 align="center">Hi, I'm Shajin</h1>
-<h3 align="center">A passionate mern-stack,python developer from India</h3>
-
-
-<hr/>
+<img width="100%" src="https://i.ibb.co/1zqfKQZ/Untitled-1-01.jpg" />
 <br/>
 <br/>
 
