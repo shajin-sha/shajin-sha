@@ -1,6 +1,6 @@
 
 <h1 align="center" >Hello 🙋🏻‍♂️ ,Shajin here</h1>
-<h3 align="center"  >Mean stack | Python developer</h3>
+<h3 align="center"  Mern stack | Python developerean stack | Python developer</h3>
 
 <br/>
 <br/>
