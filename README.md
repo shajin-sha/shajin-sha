@@ -1,6 +1,6 @@
 
-<h1 align="center" >Hello 🙋🏻‍♂️ ,Shajin here</h1>
-<h3 align="center">  Mern stack | Python developerean stack</h3>
+<h1 align="center" >Hello👋 ,Shajin here</h1>
+<h3 align="center">  Mern stack | Python developer</h3>
 <br/>
 <br/>
 
@@ -39,14 +39,8 @@ You can shoot me an 📩 email at shajin.sha10@gmail.com I'll try to respond as 
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
-![express](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=express)
-![mongodb](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=mongodb)
-
-
-
-
-
-
+![express](https://img.shields.io/badge/-express-05122A?style=flat&logo=express)
+![mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)
 
 
 
@@ -54,22 +48,26 @@ You can shoot me an 📩 email at shajin.sha10@gmail.com I'll try to respond as 
   <br/>
   
   
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shajin-sha&shajin-sha=true&locale=en&layout=compact" alt="shajin-sha" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shajin-sha&show_icons=true&locale=en" alt="shajin-sha" /></p>
-
-
-
-
-
-
-
-
+  
+  
+  
+  <p align="left"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shajin-sha&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
 ---
 
 
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 
 <i>Follow me around the web:</i><br>
 
@@ -81,6 +79,7 @@ You can shoot me an 📩 email at shajin.sha10@gmail.com I'll try to respond as 
 
 <a href="https://www.linkedin.com/in/shajin-sha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/shajin_sha" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="mailto:shajin.sha10gmail.com"><img src="https://img.shields.io/badge/-shajin.sha10@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
 
