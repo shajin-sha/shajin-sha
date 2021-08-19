@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-## skils :
+## skills :
 - python
 - node.js
 - experss
