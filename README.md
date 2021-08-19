@@ -1,15 +1,41 @@
 
-<img width="100%" src="https://i.ibb.co/VVWdWVR/new-01.png" />
+<h1 align="center" >Hello 🙋🏻‍♂️ ,Shajin here</h1>
+<h3 align="center"  >Mean stack | Python developer</h3>
+
 <br/>
 <br/>
 
-- I’m currently learning **react advanced and react native
 
-- All of my projects are available at [https://github.com/shajin-sha](https://github.com/shajin-sha)
+- 👩🏻‍💻 Currently I'm leaning data structures and algorithms
+- 📧 Mail : shajin.sha10@gmail.com
+- ⏭ Wheat's next : mobile app development
 
-- Ask me about **react,python,css,html,Javascript,node.js,express**
+<br/>
+<br/>
 
-- How to reach me **shajin.sha10@gmail..com**
+## skils :
+- python
+- node.js
+- experss
+- Javascript
+- css
+- react
+- react native
+- mongodb
+- html
+- Django
+- flask
+- adobe xd
+- adobe ps
+- adobe ai
+- adobe premiere pro
+- ui/ux
+- git
+- github
+- postman
+- figma
+
+
 
 <br/>
 <br/>
