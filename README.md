@@ -14,7 +14,7 @@ In my free time, I pursue Graphic Design.
 You can shoot me an 📩 email at shajin.sha10@gmail.com I'll try to respond as soon as I can.
 <br/>
 <br/>
-[ 🎁 Download Resume](https://#)
+[ 🎁 Download Resume](https://rb.gy/b8x3u2)
 <br/>
 <br/>
 
