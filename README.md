@@ -24,12 +24,14 @@ You can shoot me an 📩 email at shajin.sha10@gmail.com I'll try to respond as 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![flutter](https://img.shields.io/badge/-flutter-05122A?style=flat&logo=flutter)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![dart](https://img.shields.io/badge/-dart-05122A?style=flat&logo=dart)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -51,7 +53,7 @@ You can shoot me an 📩 email at shajin.sha10@gmail.com I'll try to respond as 
   
   
   
-  <p align="left"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shajin-sha&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+  <p align="left"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shajin-sha&langs_count=25&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
   
   
   
