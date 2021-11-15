@@ -14,7 +14,7 @@ In my free time, I pursue Graphic Design.
 You can shoot me an 📩 email at shajin.sha10@gmail.com I'll try to respond as soon as I can.
 <br/>
 <br/>
-[ 🎁 Download Resume](https://#)
+<!-- [ 🎁 Download Resume](https://#) -->
 <br/>
 <br/>
 
@@ -66,18 +66,12 @@ You can shoot me an 📩 email at shajin.sha10@gmail.com I'll try to respond as 
   
   
   
- 
----
+
 
 
 
 <i>Follow me around the web:</i><br>
 
-  <!-- <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-  <a target="_blank" href="https://www.instagram.com/absphreak/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
-  <a target="_blank" href="https://www.facebook.com/originalphreak/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
-  <a target="_blank" href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
-  <a target="_blank" href="https://dev.to/ABSphreak">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> -->
 
 <a href="https://www.linkedin.com/in/shajin-sha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/shajin_sha" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
