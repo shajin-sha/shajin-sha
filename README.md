@@ -1,5 +1,5 @@
 
-<h1 align="center" >Hello👋 ,Shajin here</h1>
+<h1 align="center" >Hello ,Shajin here</h1>
 <h3 align="center">  Mern stack | Python developer</h3>
 <br/>
 <br/>
@@ -11,7 +11,7 @@ I like to explore new technologies and develop software solutions and quick hack
 <br/>
 In my free time, I pursue Graphic Design.
 <br/>
-You can shoot me an 📩 email at shajin.sha10@gmail.com I'll try to respond as soon as I can.
+You can shoot me an email at shajin.sha10@gmail.com I'll try to respond as soon as I can.
 <br/>
 <br/>
 <!-- [ 🎁 Download Resume](https://#) -->
