@@ -9,10 +9,11 @@ I am an aspiring software developer enjoys connecting the dots: be it ideas from
 * [Mail](mailto:shajin.sha10@gamil.com)
 * [Founder of Kiqpo](mailto:shajin.sha10@gamil.com)
 <br/>
-<br/>
-  
-  
- 
 
+## 
+<div>
+  <img width='3%' src='https://i.ibb.co/26vjYzM/Gmail.png'/>
+  <img width='3%' src='https://i.ibb.co/1zJw5XT/Linked-In-Circled.png'/>
+ <div/>
 
 
