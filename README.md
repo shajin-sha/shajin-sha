@@ -10,6 +10,15 @@ I am an aspiring software developer enjoys connecting the dots: be it ideas from
 * [Founder of Kiqpo](http://kiqpo.software/)
 <br/>
 
+<img width="35%" src='https://shajin.me/images/project/project-1.svg' />
+
 <img width="35%" src='https://shajin.me/images/project/project-2.svg' />
+
+<img width="35%" src='https://shajin.me/images/project/project-3.svg' />
+
+<img width="35%" src='https://shajin.me/images/project/project-4.svg' />
+
+<img width="35%" src='https://shajin.me/images/project/project-5.svg' />
+
 
 ## 
