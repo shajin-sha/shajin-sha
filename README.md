@@ -1,5 +1,5 @@
 
-### Shajin | Mern stack & Python developer
+### Shajin | Flutter & Mern stack and Python developer 
 
 I am an aspiring software developer enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills in app development & web development.
 
