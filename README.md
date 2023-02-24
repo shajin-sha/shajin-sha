@@ -4,7 +4,7 @@
 I am an aspiring software developer enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills in app development & web development.
 
 
-
+* [Resume](https://github.com/shajin-sha/shajin-sha/raw/main/resume.pdf)
 * [Portfolio](https://shajin-sha.netlify.app)
 * [Mail](mailto:shajin.sha10@icloud.com)
 * [Ripyas API](http://github.com/ripyas)
