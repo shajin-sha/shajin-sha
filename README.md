@@ -1,7 +1,7 @@
 
 ### Shajin KP | Flutter & Mern stack and Python developer
 
-I am an aspiring software developer enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills in app development & web development.
+Highly passionate and curious full stack developer with no engineering degree, who only writes c
 
 * [Resume](https://shajin-sha.netlify.app/images/profile/shajin-resume.pdf)
 * [National-Level Hackathon Winner (First price)](https://drive.google.com/file/d/1xyl1EoM01KcE3Chp1260nteTwBiEo_ab/view)
