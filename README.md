@@ -16,7 +16,7 @@ Highly passionate and curious full stack developer with no engineering degree, w
 * [Feed up](https://github.com/shajin-sha/Feed-up)
 * [Kiqpo - stopped](https://github.com/shajin-sha/kiqpo) 
 * [Netflix - clone](https://netflix-d7399.web.app/signup)
-* [Citizen's Data Leakage - Private 🔒 | Kerala student's sensitive information leak](https://github.com/shajin-sha/Data-Leakage)
+* [The Vulnerability of a Government website | Kerala student's sensitive information leak](https://medium.com/@shajin.sha10/the-vulnerability-of-a-government-website-a-case-study-of-kerala-sslc-exam-portal-339d9ee6a1ee)
 * [React Native - Weather app](https://github.com/shajin-sha/Weather)
 
 ## 
