@@ -1,7 +1,5 @@
 
-### Shajin KP | Flutter & Mern stack and Python developer
-
-Highly passionate and curious full stack developer with no engineering degree.
+### Shajin KP | Flutter & Mern stack and Python developer.
 
 * [Resume](https://shajin-sha.netlify.app/images/profile/shajin-resume.pdf)
 * [National-Level Hackathon Winner (First price)](https://drive.google.com/file/d/1xyl1EoM01KcE3Chp1260nteTwBiEo_ab/view)
