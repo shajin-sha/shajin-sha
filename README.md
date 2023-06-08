@@ -17,4 +17,6 @@
 * [Netflix - clone](https://netflix-d7399.web.app/signup)
 * [React Native - Weather app](https://github.com/shajin-sha/Weather)
 
-## 
+<details>
+  <summary>Projects showcase</summary>
+</details>
