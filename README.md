@@ -19,4 +19,6 @@
 
 <details>
   <summary>Projects showcase</summary>
+  <img src="https://i.ibb.co/fkLFSKp/Frame-1.png" width="100%">
+  <img src="https://i.ibb.co/HKqxLNd/Frame-2.png" width="100%">
 </details>
