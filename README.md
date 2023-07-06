@@ -3,6 +3,7 @@
 
 * [Resume](https://shajin-sha.netlify.app/images/profile/shajin-resume.pdf)
 * [National-Level Hackathon Winner (First price)](https://drive.google.com/file/d/1xyl1EoM01KcE3Chp1260nteTwBiEo_ab/view)
+* [Read My Story 👈🏻](https://www.linkedin.com/posts/shajin-kp_codingjourney-earlysuccess-passiondriven-activity-7081836527189716992-Nr_o?utm_source=share&utm_medium=member_desktop)
 
 ### Projects :-
 * [Hozzo - No.1 Car Wash App In India 🚙🧼](https://play.google.com/store/apps/details?id=com.d5ndigital.hozzo). 
