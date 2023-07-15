@@ -18,4 +18,4 @@
 
 ### Contact Me
 - LinkedIn: [Shajin KP](https://www.linkedin.com/in/shajin-kp)
-- Website: [shajin-sha.netlify.app](https://shajin.in)
+- Website: [shajin.in](https://shajin.in)
