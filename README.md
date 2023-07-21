@@ -1,5 +1,7 @@
 ## Shajin KP | Flutter & MERN Stack Developer
 [Read my story on Linkedin 👈🏻](https://www.linkedin.com/posts/shajin-kp_codingjourney-earlysuccess-passiondriven-activity-7081836527189716992-Nr_o?utm_source=share&utm_medium=member_desktop)
+
+[Portfolio | shajin.in 😃](https://www.shajin.in)
 ### About Me
 - Flutter & MERN Stack Developer
 - UX matters!
