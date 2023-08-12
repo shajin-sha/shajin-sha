@@ -24,4 +24,3 @@
 - Website: [shajin.in](https://shajin.in)c
 - [Medium](https://medium.com/@shajin.sha10)
 - [Fueler](https://fueler.io/shajin)
-- 
