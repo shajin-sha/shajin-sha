@@ -17,7 +17,11 @@
 
 ### Achievements
 - [National-Level Hackathon Winner - First Prize](https://drive.google.com/file/d/1xyl1EoM01KcE3Chp1260nteTwBiEo_ab/view)
+- [Fueler reward 🍕](https://fueler.io/shajin/pizza-from-fueler)
 
 ### Contact Me
 - LinkedIn: [Shajin KP](https://www.linkedin.com/in/shajin-kp)
-- Website: [shajin.in](https://shajin.in)
+- Website: [shajin.in](https://shajin.in)c
+- [Medium](https://medium.com/@shajin.sha10)
+- [Fueler](https://fueler.io/shajin)
+- 
