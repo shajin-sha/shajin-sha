@@ -21,6 +21,6 @@
 
 ### Contact Me
 - LinkedIn: [Shajin KP](https://www.linkedin.com/in/shajin-kp)
-- Website: [shajin.in](https://shajin.in)c
+- Website: [shajin.in](https://shajin.in)
 - [Medium](https://medium.com/@shajin.sha10)
 - [Fueler](https://fueler.io/shajin)
